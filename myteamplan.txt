@@ -1,7 +1,7 @@
 >> ### Project Plan : AI Project 1 ###<<
 1. Course Name : AI 
 2. Team Information
-- Team Name: Farkhod_Team
+- Team Name: Jobless Creeps_Team
 - Team Members (Name / Student ID / Role):
  > Leader Name: ABDULLAEV FARKHOD, Student ID:202390250, Group: E40B, Role: Leader 
  > Member Name 1: ABDULAZIZ AXMADJONOV, Student ID:202390245, Group: E40A, Role:PROGRAMMER
